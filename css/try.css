@@ -1,0 +1,28 @@
+.case {
+    display: flex;
+  }
+  .first-green {
+    height: 500px;
+    width: 420px;
+    background-color: rgb(220, 172, 155);
+    color: black;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  }
+  .white {
+    height: 500px;
+    width: 420px;
+    background-color: rgb(8, 8, 8);
+    color: rgb(249, 240, 240);
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .red {
+    height: 500px;
+    width: 430px;
+    background-color: rgb(220, 172, 155);
+    color: black;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
